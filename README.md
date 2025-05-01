@@ -61,13 +61,6 @@ FRAS uses **FaceNet** for face embedding extraction and a **Support Vector Machi
 - User-friendly interface for teachers
 - Secure data handling and storage
 
----
-
-## 📚 Future Work
-
-- Integrate with school management systems
-- Expand to multimodal authentication (e.g., voice, fingerprint)
-- Cloud-based deployment with mobile app support
 
 ---
 
