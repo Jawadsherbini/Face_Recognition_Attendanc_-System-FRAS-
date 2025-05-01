@@ -1,7 +1,6 @@
-![Example Image](/Users/j.sh/Desktop/Screenshot 1446-11-03 at 9.15.36 AM.png)
 
 # 👁️‍🗨️ Face Recognition Attendance System (FRAS)
-
+![image](/Users/j.sh/Desktop/Screenshot 1446-11-03 at 9.15.36 AM.png)
 The Face Recognition Attendance System (FRAS) is an innovative solution designed to streamline and modernize the way attendance is recorded in educational institutions. By leveraging the power of artificial intelligence and facial recognition technologies, this project aims to automate the entire process of attendance tracking, thus replacing traditional manual methods that are often time-consuming, error-prone, and inefficient.
 
 ## 📌 Project Overview
