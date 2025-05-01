@@ -1,5 +1,4 @@
-![Example Image](<img width="869" alt="Screenshot 1446-11-03 at 9 15 36 AM" src="https://github.com/user-attachments/assets/0164994c-c24e-473c-9600-9574a8e69163" />
-)
+![Example Image](/Users/j.sh/Desktop/Screenshot 1446-11-03 at 9.15.36 AM.png)
 
 # 👁️‍🗨️ Face Recognition Attendance System (FRAS)
 
