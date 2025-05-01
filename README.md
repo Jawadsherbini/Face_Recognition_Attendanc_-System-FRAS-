@@ -70,10 +70,10 @@ This level of performance makes the system a viable solution for practical deplo
 ---
 
 ## 👨‍💻 Authors
-- Jawad  
-- Abdulaziz 
-- Khaled  
-- Mohammed  
-- Faisal  
+- Jawad Sherbini 
+- Abdulaziz Al-Otaibi
+- Khaled Al-Amri
+- Mohammed Al-Harbi
+- Faisal Abo Al-Ola
 
 
