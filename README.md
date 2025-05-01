@@ -73,7 +73,8 @@ FRAS uses **FaceNet** for face embedding extraction and a **Support Vector Machi
 
 ## 👨‍💻 Authors
 
-- Abdulaziz Khaled
 - Jawad
+- Abdulaziz
+- Khaled
 - Mohammed
 - Faisal  
