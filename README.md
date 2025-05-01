@@ -1,6 +1,6 @@
 
 # 👁️‍🗨️ Face Recognition Attendance System (FRAS)
-![image](/Users/j.sh/Desktop/Screenshot 1446-11-03 at 9.15.36 AM.png)
+
 The Face Recognition Attendance System (FRAS) is an innovative solution designed to streamline and modernize the way attendance is recorded in educational institutions. By leveraging the power of artificial intelligence and facial recognition technologies, this project aims to automate the entire process of attendance tracking, thus replacing traditional manual methods that are often time-consuming, error-prone, and inefficient.
 
 ## 📌 Project Overview
@@ -32,9 +32,6 @@ To implement this system, we relied on a robust set of tools and frameworks that
 A custom dataset was created by collecting facial images of enrolled students from various angles and expressions to ensure robustness. Each image was labeled with the student’s name and ID and subjected to an extensive preprocessing pipeline to improve model performance. This pipeline included:
 - **Data Augmentation** techniques such as random rotation, scaling, translation, brightness adjustment, and flipping, which simulate real-world variations in appearance and lighting conditions.
 
-![Data Augmentation](images/data_augmentation.png)
-![MTCNN Cropped Face](images/mtcnn_cropped_face.png)
-
 These enhancements were critical in making the model generalize better and recognize faces accurately even under non-ideal circumstances.
 
 ---
@@ -57,9 +54,6 @@ The system demonstrated outstanding accuracy and performance in real-world test 
 - Metrics such as precision, recall, and F1-score were consistently high across all student classes.
 - The system handled complex scenarios involving varied facial expressions, partial occlusions, and lighting changes with remarkable robustness.
 
-![Class Results](images/class_results.png)
-![Confusion Matrix](images/confusion_matrix.png)
-![Test Results](images/test_results.png)
 
 This level of performance makes the system a viable solution for practical deployment in schools, universities, and potentially even corporate settings.
 
